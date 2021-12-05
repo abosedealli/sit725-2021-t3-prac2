@@ -1,0 +1,24 @@
+{
+  "name": "sit725-2021-t3-prac2-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abosedealli/sit725-2021-t3-prac2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abosedealli/sit725-2021-t3-prac2/issues"
+  },
+  "homepage": "https://github.com/abosedealli/sit725-2021-t3-prac2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
